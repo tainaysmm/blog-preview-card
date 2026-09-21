@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" role="img" aria-labelledby="title desc">
+  <title id="title">HTML and CSS foundations</title>
+  <desc id="desc">Illustration of a computer screen with HTML and CSS code.</desc>
+  <rect width="800" height="420" fill="#f4d04e"/>
+  <circle cx="105" cy="92" r="58" fill="#111"/>
+  <circle cx="690" cy="330" r="76" fill="#fff" stroke="#111" stroke-width="12"/>
+  <rect x="145" y="68" width="510" height="284" rx="20" fill="#fff" stroke="#111" stroke-width="12"/>
+  <path d="M145 124h510" stroke="#111" stroke-width="12"/>
+  <circle cx="178" cy="96" r="9" fill="#f4d04e"/><circle cx="208" cy="96" r="9" fill="#f4d04e"/><circle cx="238" cy="96" r="9" fill="#f4d04e"/>
+  <path d="m226 194 48 36-48 36M350 182l-28 102M392 194l48 36-48 36" fill="none" stroke="#111" stroke-linecap="round" stroke-linejoin="round" stroke-width="18"/>
+  <path d="M488 188h91M488 230h60M488 272h82" stroke="#f4d04e" stroke-linecap="round" stroke-width="18"/>
+</svg>
